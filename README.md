@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anand-3399 You can call me also Anand Jaiswar 
-- 👀 I’m interested in Programming languages like Python, Java and etc. along with Artificial Intelligence and Data Science. Currently I am in the second Year and knows only basic of python programming.
+- 👀 I’m interested in Programming languages like Python, Java and etc. along with Artificial Intelligence and Data Science. Currently I am in the second Year and knows intermediate level of python programming.
 - 🌱 I’m currently learning in Computer Engineering Department at TCET.
 - 💞️ I’m looking to collaborate on many projects and know in deep of Computer Science.
 - 📫 How to reach me - email(Private email) - anandjaiswar02@gmail.com
