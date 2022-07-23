@@ -8,14 +8,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Gaming Ninja](https://github.com/anand-3399/Gaming-Ninja)
-
 - 🌱 I’m currently learning **PHP, Database and Machine Learning**
-
 - 💬 Ask me about **FrontEnd**
-
-- 📫 How to reach me **anandjaiswar02@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12cqM26SNA103zqpEkQcAXPgwY_Vccl79/view](https://drive.google.com/file/d/12cqM26SNA103zqpEkQcAXPgwY_Vccl79/view)
+- 📫 How to reach me [anandjaiswar02@gmail.com](mailto:anandjaiswar02@gmail.com)  or [9699685491](tel:+91 9699685491)
+- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/12cqM26SNA103zqpEkQcAXPgwY_Vccl79/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-3399&show_icons=true&locale=en&layout=compact" alt="anand-3399" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-3399&show_icons=true&locale=en" alt="anand-3399" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-3399&show_icons=true&locale=en" alt="anand-3399" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-3399&" alt="anand-3399" /></p>
 
