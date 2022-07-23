@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Jaiswar</h1>
-<h3 align="center">A passionate programmer from India. I’m interested in Programming languages like Python, Java and etc. along with Artificial Intelligence and Data Science. Currently I am in the second Year and knows intermediate level of python programming.</h3>
+<h3 align="center">A passionate programmer from India. I’m interested in Programming languages like Python, Java and etc. along with Artificial Intelligence and Data Science. Currently I am in the Third Year and knows intermediate level of python programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-3399&label=Profile%20views&color=0e75b6&style=flat" alt="anand-3399" /> </p>
 
