@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Gaming Ninja](https://github.com/anand-3399/Gaming-Ninja)
 - 🌱 I’m currently learning **PHP, Database and Machine Learning**
 - 💬 Ask me about **FrontEnd**
-- 📫 How to reach me [anandjaiswar02@gmail.com](mailto:anandjaiswar02@gmail.com)  or [9699685491](tel:+91 9699685491)
+- 📫 How to reach me [anandjaiswar02@gmail.com](mailto:anandjaiswar02@gmail.com)  or [9699685491](tel:+919699685491)
 - 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/12cqM26SNA103zqpEkQcAXPgwY_Vccl79/view)
 
 <h3 align="left">Connect with me:</h3>
