@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gaming Ninja](https://github.com/anand-3399/Gaming-Ninja)
+- 🔭 I’m currently working on [NewsMedia](https://github.com/anand-3399/NewsMedia#readme)
 - 🌱 I’m currently learning **PHP, Database and Machine Learning**
 - 💬 Ask me about **FrontEnd**
 - 📫 How to reach me [anandjaiswar02@gmail.com](mailto:anandjaiswar02@gmail.com)  or [9699685491](https://wa.me/+919699685491?text=Hello%20my%20friend!%20I%20want%20to%20connect%20with%20you.%20Just%20want%20to%20know%20about%20)
@@ -51,7 +51,7 @@
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=anand-3399&theme=react-dark&hide_border=true">
+[![Anand's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anand-3399&hide_border=true&theme=react-dark)](https://github.com/anand-3399/github-readme-activity-graph)
 
 
 
